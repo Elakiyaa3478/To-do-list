@@ -1,8 +1,8 @@
 html,
 body{
    margin: 0;
-   font-family: 'Poppins', sans-serif;
-   background-color:#f5e8ba;
+   font-family: "Lucida Console", "Courier New", monospace;
+   background-color:#320436;
 }
 
 #wrapper h2{
@@ -12,7 +12,7 @@ body{
 }
 
 h2{
-    color:#ffeba7;
+    color:#a7fffb;
     letter-spacing: 1px;
 }
 input{
@@ -31,14 +31,14 @@ input:active{
     height:500px;
     width:400px;
     margin:200px auto;
-    background-color:#1f2029;
+    background-color:#bb86da;
     border-radius:10px;
     padding:30px;
 }
 
 button{
     margin-top:20px;
-    background-color:#ffeba7;
+    background-color:#f8a7ff;
     border-radius: 4px;
     height: 44px;
     font-weight: 600;
@@ -52,7 +52,7 @@ button:hover{
     cursor:pointer;
 }
 #todoList{
-    color:white;
+    color:rgb(33, 3, 58);
     font-size:28px;  
     margin-top:10px; 
 }
